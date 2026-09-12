@@ -5,7 +5,7 @@ My journey from Python beginner to Python developer.
 ## 🟢 BASIC
 
 ### Python Fundamentals
-- [ ] Challenge 01 - Personal Information
+- [x] Challenge 01 - Personal Information
 - [ ] Challenge 02 - Student Average
 - [ ] Challenge 03 - Age Calculator
 - [ ] Challenge 04 - Product Checkout
