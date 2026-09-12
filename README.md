@@ -44,7 +44,7 @@ My journey from Python beginner to Python developer.
 - [x] Challenge 02 - Count Up with Input
 - [x] Challenge 03 - Countdown with Input
 - [x] Challenge 04 - Password Retry
-- [ ] Challenge 05 - Number Guessing Game
+- [x] Challenge 05 - Number Guessing Game
 - [ ] Challenge 06 - Limited Login Attempts
 - [ ] Challenge 07 - Menu Loop
 - [ ] Challenge 08 - Input Validation
