@@ -1,0 +1,5 @@
+#1 USD = 58php
+exchange_rate = 58
+USD = float(input("Enter USD: "))
+php = USD * exchange_rate
+print(f"{USD}  USD IS EQUAL TO {php} PHP")
