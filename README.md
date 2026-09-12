@@ -21,7 +21,7 @@ My journey from Python beginner to Python developer.
 - [x] Challenge 12 - Even or Odd
 - [x] Challenge 13 - Grade Checker
 - [x] Challenge 14 - Largest of Two Numbers
-- [ ] Challenge 15 - Largest of Three Numbers
+- [x] Challenge 15 - Largest of Three Numbers
 - [ ] Challenge 16 - Age Category
 - [x] Challenge 17 - Login Checker
 - [ ] Challenge 18 - Ticket Price
