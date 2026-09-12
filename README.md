@@ -24,7 +24,7 @@ My journey from Python beginner to Python developer.
 - [x] Challenge 15 - Largest of Three Numbers
 - [x] Challenge 16 - Age Category
 - [x] Challenge 17 - Login Checker
-- [ ] Challenge 18 - Ticket Price
+- [x] Challenge 18 - Ticket Price
 - [x] Challenge 19 - ATM PIN Checker
 - [ ] Challenge 20 - Nested ATM Menu
 
