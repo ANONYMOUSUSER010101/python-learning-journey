@@ -30,7 +30,7 @@ My journey from Python beginner to Python developer.
 
 ### Basic Projects
 - [x] Challenge 21 - Student Information System
-- [ ] Challenge 22 - Calculator with Validation
+- [x] Challenge 22 - Calculator with Validation
 - [x] Challenge 23 - Login System
 - [x] Challenge 24 - Grade Management
 - [x] Challenge 25 - Basic ATM
