@@ -26,7 +26,7 @@ My journey from Python beginner to Python developer.
 - [x] Challenge 17 - Login Checker
 - [x] Challenge 18 - Ticket Price
 - [x] Challenge 19 - ATM PIN Checker
-- [ ] Challenge 20 - Nested ATM Menu
+- [x] Challenge 20 - Nested ATM Menu
 
 ### Basic Projects
 - [x] Challenge 21 - Student Information System
