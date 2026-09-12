@@ -10,7 +10,7 @@ My journey from Python beginner to Python developer.
 - [x] Challenge 03 - Age Calculator
 - [x] Challenge 04 - Product Checkout
 - [x] Challenge 05 - Simple Calculator
-- [] Challenge 06 - Temperature Converter
+- [ ] Challenge 06 - Temperature Converter
 - [ ] Challenge 07 - Currency Converter
 - [ ] Challenge 08 - Time Converter
 - [x] Challenge 09 - BMI Calculator
