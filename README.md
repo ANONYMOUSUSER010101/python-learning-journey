@@ -6,34 +6,34 @@ My journey from Python beginner to Python developer.
 
 ### Python Fundamentals
 - [x] Challenge 01 - Personal Information
-- [ ] Challenge 02 - Student Average
-- [ ] Challenge 03 - Age Calculator
-- [ ] Challenge 04 - Product Checkout
-- [ ] Challenge 05 - Simple Calculator
-- [ ] Challenge 06 - Temperature Converter
+- [x] Challenge 02 - Student Average
+- [x] Challenge 03 - Age Calculator
+- [x] Challenge 04 - Product Checkout
+- [x] Challenge 05 - Simple Calculator
+- [] Challenge 06 - Temperature Converter
 - [ ] Challenge 07 - Currency Converter
 - [ ] Challenge 08 - Time Converter
-- [ ] Challenge 09 - BMI Calculator
-- [ ] Challenge 10 - Mini Receipt
+- [x] Challenge 09 - BMI Calculator
+- [x] Challenge 10 - Mini Receipt
 
 ### Conditions
-- [ ] Challenge 11 - Positive, Negative, or Zero
-- [ ] Challenge 12 - Even or Odd
-- [ ] Challenge 13 - Grade Checker
+- [x] Challenge 11 - Positive, Negative, or Zero
+- [x] Challenge 12 - Even or Odd
+- [x] Challenge 13 - Grade Checker
 - [ ] Challenge 14 - Largest of Two Numbers
 - [ ] Challenge 15 - Largest of Three Numbers
 - [ ] Challenge 16 - Age Category
-- [ ] Challenge 17 - Login Checker
+- [x] Challenge 17 - Login Checker
 - [ ] Challenge 18 - Ticket Price
-- [ ] Challenge 19 - ATM PIN Checker
+- [x] Challenge 19 - ATM PIN Checker
 - [ ] Challenge 20 - Nested ATM Menu
 
 ### Basic Projects
-- [ ] Challenge 21 - Student Information System
+- [x] Challenge 21 - Student Information System
 - [ ] Challenge 22 - Calculator with Validation
-- [ ] Challenge 23 - Login System
-- [ ] Challenge 24 - Grade Management
-- [ ] Challenge 25 - Basic ATM
+- [x] Challenge 23 - Login System
+- [x] Challenge 24 - Grade Management
+- [x] Challenge 25 - Basic ATM
 
 ---
 
