@@ -42,7 +42,7 @@ My journey from Python beginner to Python developer.
 ### While Loops
 - [x] Challenge 01 - Countdown
 - [x] Challenge 02 - Count Up with Input
-- [ ] Challenge 03 - Countdown with Input
+- [x] Challenge 03 - Countdown with Input
 - [ ] Challenge 04 - Password Retry
 - [ ] Challenge 05 - Number Guessing Game
 - [ ] Challenge 06 - Limited Login Attempts
