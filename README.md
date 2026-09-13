@@ -47,7 +47,7 @@ My journey from Python beginner to Python developer.
 - [x] Challenge 05 - Number Guessing Game
 - [x] Challenge 06 - Limited Login Attempts
 - [x] Challenge 07 - Menu Loop
-- [ ] Challenge 08 - Input Validation
+- [x] Challenge 08 - Input Validation
 - [ ] Challenge 09 - Sum of Numbers
 - [ ] Challenge 10 - Average Until Stop
 - [ ] Challenge 11 - Positive Number Counter
