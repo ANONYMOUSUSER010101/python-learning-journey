@@ -50,9 +50,9 @@ My journey from Python beginner to Python developer.
 - [x] Challenge 08 - Input Validation
 - [x] Challenge 09 - Sum of Numbers
 - [x] Challenge 10 - Average Until Stop
-- [ ] Challenge 11 - Positive Number Counter
-- [ ] Challenge 12 - Even Number Counter
-- [ ] Challenge 13 - Multiplication Table
+- [x] Challenge 11 - Positive Number Counter
+- [x] Challenge 12 - Even Number Counter
+- [x] Challenge 13 - Multiplication Table
 - [ ] Challenge 14 - Simple ATM Loop
 - [ ] Challenge 15 - Menu-Based Calculator
 
