@@ -1,6 +1,11 @@
 # 🐍 Python Learning Journey
 
 My journey from Python beginner to Python developer.
+## 📊 Progress
+
+<!-- PROGRESS:START -->
+Overall: 2 / 5 — 40%
+<!-- PROGRESS:END -->
 
 ## 🟢 BASIC
 
