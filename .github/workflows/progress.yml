@@ -1,0 +1,66 @@
+name: Update Progress
+
+on:
+  push:
+    paths:
+      - 'README.md'
+
+permissions:
+  contents: write
+
+jobs:
+  progress:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Calculate progress
+        run: |
+          python - <<'PY'
+          import re
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          completed = len(re.findall(r'- \[x\]', readme, re.IGNORECASE))
+          total = len(re.findall(r'- \[[ xX]\]', readme))
+
+          if total > 0:
+              percentage = completed / total * 100
+          else:
+              percentage = 0
+
+          progress = f"Overall: {completed} / {total} — {percentage:.1f}%"
+
+          pattern = r'<!-- PROGRESS:START -->.*?<!-- PROGRESS:END -->'
+
+          replacement = (
+              "<!-- PROGRESS:START -->\n"
+              + progress +
+              "\n<!-- PROGRESS:END -->"
+          )
+
+          readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(readme)
+
+          print(progress)
+          PY
+
+      - name: Commit progress
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update learning progress"
+            git push
+          fi
+          
