@@ -62,16 +62,16 @@ Overall: 2 / 5 — 40%
 - [x] Challenge 15 - Menu-Based Calculator
 
 ### For Loops
-- [ ] Print Numbers
-- [ ] Even Numbers
-- [ ] Odd Numbers
-- [ ] Multiplication Table
-- [ ] Sum of Numbers
-- [ ] Factorial
-- [ ] Count Vowels
-- [ ] Reverse a String
-- [ ] Find Largest Number
-- [ ] Number Pattern
+- [x] Print Numbers
+- [x] Even Numbers
+- [x] Odd Numbers
+- [x] Multiplication Table
+- [x] Sum of Numbers
+- [x] Factorial
+- [x] Count Vowels
+- [x] Reverse a String
+- [x] Find Largest Number
+- [x] Number Pattern
 
 ### Lists
 - [ ] Shopping List
