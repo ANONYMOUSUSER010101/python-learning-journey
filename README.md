@@ -67,11 +67,11 @@ Overall: 50 / 170 — 29.4%
 - [x] Odd Numbers
 - [x] Multiplication Table
 - [x] Sum of Numbers
-- [x] Factorial
-- [x] Count Vowels
-- [x] Reverse a String
-- [x] Find Largest Number
-- [x] Number Pattern
+- [ ] Factorial
+- [ ] Count Vowels
+- [ ] Reverse a String
+- [ ] Find Largest Number
+- [ ] Number Pattern
 
 ### Lists
 - [ ] Shopping List
