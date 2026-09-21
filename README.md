@@ -4,7 +4,7 @@ My journey from Python beginner to Python developer.
 ## 📊 Progress
 
 <!-- PROGRESS:START -->
-Overall: 47 / 170 — 27.6%
+Overall: 48 / 170 — 28.2%
 <!-- PROGRESS:END -->
 
 ## 🟢 BASIC
