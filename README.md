@@ -68,8 +68,8 @@ Overall: 45 / 170 — 26.5%
 - [x] Multiplication Table
 - [x] Sum of Numbers
 - [ ] Factorial
-- [ ] Count Vowels
-- [ ] Reverse a String
+- [x] Count Vowels
+- [x] Reverse a String
 - [ ] Find Largest Number
 - [ ] Number Pattern
 
