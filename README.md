@@ -67,7 +67,7 @@ Overall: 47 / 170 — 27.6%
 - [x] Odd Numbers
 - [x] Multiplication Table
 - [x] Sum of Numbers
-- [ ] Factorial
+- [x] Factorial
 - [x] Count Vowels
 - [x] Reverse a String
 - [ ] Find Largest Number
