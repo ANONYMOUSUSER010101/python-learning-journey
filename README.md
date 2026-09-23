@@ -70,7 +70,7 @@ Overall: 48 / 170 — 28.2%
 - [x] Factorial
 - [x] Count Vowels
 - [x] Reverse a String
-- [ ] Find Largest Number
+- [x] Find Largest Number
 - [ ] Number Pattern
 
 ### Lists
