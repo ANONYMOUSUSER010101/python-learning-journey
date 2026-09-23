@@ -71,7 +71,7 @@ Overall: 49 / 170 — 28.8%
 - [x] Count Vowels
 - [x] Reverse a String
 - [x] Find Largest Number
-- [ ] Number Pattern
+- [x] Number Pattern
 
 ### Lists
 - [ ] Shopping List
